@@ -1,3 +1,4 @@
+// Головний файл CLI
 import { Command } from 'commander';
 import fs from 'fs';
 
