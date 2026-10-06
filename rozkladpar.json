@@ -8,7 +8,7 @@
       "isRemote": false,
       "room": 5,
       "address": "Драгоманова 5",
-      "weekType": "Кожного тиждня",
+      "weekType": "чисельник",
       "day": "Середа"
     },
     {
@@ -17,7 +17,7 @@
       "isRemote": false,
       "room": 8,
       "address":"Драгоманова 5",
-      "weekType": "Кожного тиждня",
+      "weekType": "знаменник",
       "day": "Середа"
     },
     {
@@ -26,7 +26,7 @@
       "isRemote": true,
       "room": null,
       "address": null,
-      "weekType": "Кожного тиждня",
+      "weekType": "чисельник",
       "day": "Понеділок"
     },
     {
@@ -35,7 +35,7 @@
       "isRemote": false,
       "room": 3,
       "address": "Драгоманова 5",
-      "weekType": "Знаменник",
+      "weekType": "знаменник",
       "day": "Четвер"
     },
     {
@@ -44,7 +44,7 @@
       "isRemote": false,
       "room": 218,
       "address": "Тарнавського 7",
-      "weekType": "Кожного тиждня",
+      "weekType": "знаменник",
       "day": "Понеділок"
     },
     {
@@ -53,7 +53,7 @@
       "isRemote": false,
       "room": 218,
       "address": "Тарнавського 7",
-      "weekType": "Кожного тиждня",
+      "weekType": "чисельник",
       "day": "Понеділок"
     }
   ]
