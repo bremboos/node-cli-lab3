@@ -1,0 +1,60 @@
+{
+  "groupName": "ФЕІ-22",
+  "semester": 3,
+  "classes": [
+    {
+      "subject": "Веб програмування на стороні сервера",
+      "lecture": "Гусак О.В.",
+      "isRemote": false,
+      "room": 5,
+      "address": "Драгоманова 5",
+      "weekType": "Кожного тиждня",
+      "day": "Середа"
+    },
+    {
+      "subject": "Організація баз данних та знань",
+      "lecture": "Жишкович А.В.",
+      "isRemote": false,
+      "room": 8,
+      "address":"Драгоманова 5",
+      "weekType": "Кожного тиждня",
+      "day": "Середа"
+    },
+    {
+      "subject": "Іноземна мова",
+      "lecture": "Шумська О.А.",
+      "isRemote": true,
+      "room": null,
+      "address": null,
+      "weekType": "Кожного тиждня",
+      "day": "Понеділок"
+    },
+    {
+      "subject": "Українська мова(за професійним спрямуванням)",
+      "lecture": "Слободзяник О.С.",
+      "isRemote": false,
+      "room": 3,
+      "address": "Драгоманова 5",
+      "weekType": "Знаменник",
+      "day": "Четвер"
+    },
+    {
+      "subject": "Оптоелектронна інформатика",
+      "lecture": "Горон Б.І.",
+      "isRemote": false,
+      "room": 218,
+      "address": "Тарнавського 7",
+      "weekType": "Кожного тиждня",
+      "day": "Понеділок"
+    },
+    {
+      "subject": "Операційні системи",
+      "lecture": "Бойко Я.В.",
+      "isRemote": false,
+      "room": 218,
+      "address": "Тарнавського 7",
+      "weekType": "Кожного тиждня",
+      "day": "Понеділок"
+    }
+  ]
+}
